@@ -1,2 +1,1 @@
-
-<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=04F706&background=0DFF0F00&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+%E4%BD%A0%E5%A5%BD)](https://git.io/typing-svg)
