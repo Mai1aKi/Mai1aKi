@@ -1,4 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=435&lines=%E4%BD%A0%E5%A5%BD+Hello+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+Bonjour+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BA%BA%E8%80%81%E5%BF%83%E4%B8%8D%E8%80%81%EF%BC%8C%E7%83%AD%E6%83%85%E6%98%AF%E5%AE%9D%EF%BC%8C%E8%BA%AB%E8%80%81%E5%AE%B9%E4%B8%8D%E8%80%81%EF%BC%8C%E9%9D%92%E6%98%A5%E6%B0%B8%E8%91%86%EF%BC%8C%E5%B2%81%E8%80%81%E5%A4%A9%E9%9A%BE%E8%80%81%EF%BC%8C%E7%88%B1%E6%AF%94%E5%A4%A9%E9%AB%98%E3%80%82)](https://git.io/typing-svg)
-
+<svg width="500" height="50">
+    <text fill="black" font-size="16" x="500" y="25" id="text">
+        你好 Hello 안녕하세요 Bonjour こんにちは
+    </text>
+    <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="500 0"
+        to="-500 0"
+        dur="10s"
+        repeatCount="indefinite"/>
+</svg>
 
 [![Mai1aKi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mai1aKi&theme=github-compact)](https://github.com/Mai1aKi/github-readme-activity-graph)
