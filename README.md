@@ -7,8 +7,6 @@
 ## 🙋 About me
 
 - 🎓 **M.S. in Computer Engineering** @ **NYU Tandon** (Class of 2026) · **B.S. in Computer Science** @ University at Buffalo (SUNY)
-- 💻 Backend development intern @ **Alibaba** — built a RAG web application
-- 📸 Product manager intern @ **ByteDance** — took a photography community product from 0 to 1
 - 🔭 Currently diving into **Big Data Management & Analysis**: Spark, DuckDB, SQL vs. NoSQL, data quality
 - 🏃 On a daily mission to rebuild rock-solid coding & CS fundamentals — algorithms, systems, networks
 - 🗽 Based in New York · 日本語を勉強中 (JLPT N5 → N4)
